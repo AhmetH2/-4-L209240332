@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hojap\\source\\repos\\Praktika 12.17.2024 [4]\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{560289EB-018B-4142-9395-EA76CBF375EC}|Praktika 12.17.2024 [4]\\Praktika 12.17.2024 [4].vcxproj|C:\\Users\\hojap\\source\\repos\\Praktika 12.17.2024 [4]\\Praktika 12.17.2024 [4]\\cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{560289EB-018B-4142-9395-EA76CBF375EC}|Praktika 12.17.2024 [4]\\Praktika 12.17.2024 [4].vcxproj|solutionrelative:Praktika 12.17.2024 [4]\\cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "cpp.cpp",
+              "DocumentMoniker": "C:\\Users\\hojap\\source\\repos\\Praktika 12.17.2024 [4]\\Praktika 12.17.2024 [4]\\cpp.cpp",
+              "RelativeDocumentMoniker": "Praktika 12.17.2024 [4]\\cpp.cpp",
+              "ToolTip": "C:\\Users\\hojap\\source\\repos\\Praktika 12.17.2024 [4]\\Praktika 12.17.2024 [4]\\cpp.cpp",
+              "RelativeToolTip": "Praktika 12.17.2024 [4]\\cpp.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T07:57:19.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
